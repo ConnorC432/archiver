@@ -1,0 +1,9 @@
+[submodule "archiver-lib"]
+	path = archiver-lib
+	url = https://github.com/ConnorC432/archiver-lib.git
+[submodule "archiver-web"]
+	path = archiver-web
+	url = https://github.com/ConnorC432/archiver-web.git
+[submodule "archiver-cli"]
+	path = archiver-cli
+	url = https://github.com/ConnorC432/archiver-cli.git
